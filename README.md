@@ -44,4 +44,4 @@ Non-existant at this early stage.
 
 ```ncurses``` is covered by it's own license, bear in mind for distribution.
 
-However, James' CLI Game Framework is covered by the MIT License.
+However, James' CLI Game Framework is covered by the license in the [LICENSE](LICENSE) file.
