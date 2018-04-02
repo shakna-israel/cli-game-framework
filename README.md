@@ -16,7 +16,7 @@ The project isn't guaranteed to build.
 
 # Hello, World
 
-```
+```c
 #include "gf.h"
 
 void ns(game, tick)() {
